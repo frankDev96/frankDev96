@@ -14,10 +14,10 @@ I'm a **Senior Software Developer** with 5+ years of experience specializing in 
 - Architect scalable solutions with **Redux**, **MMKV**, **FastAPI**, and **Node.js**
 
 ### 🛠 Tech Stack
-- **Frontend**: React Native, React.js, Redux, Tailwind, Flutter (beginner)
+- **Frontend**: React Native, React.js, Redux, Tailwind, AngularJS
 - **Backend**: Node.js, FastAPI, Firebase, Supabase
 - **Tools**: Git, GitHub Actions, VSCode, Figma
-- **Other**: SEO optimization, DevOps basics, Web scraping
+- **Other**: SEO optimization, DevOps basics
 
 ### 🌱 Currently Learning
 - **AI Infrastructure**, **System Design**, and **Applied AI**
@@ -29,9 +29,7 @@ I'm a **Senior Software Developer** with 5+ years of experience specializing in 
 - Contribute to the future of intelligent infrastructure systems
 
 ### 📬 Connect With Me
-- [LinkedIn](https://linkedin.com/in/franklinsamuvel)  
-- [Twitter](https://twitter.com/yourhandle)  
-- [Portfolio](https://yourwebsite.com) (optional)
+- [LinkedIn](https://www.linkedin.com/in/franklin-s-04994114a/)  
 
 ---
 
