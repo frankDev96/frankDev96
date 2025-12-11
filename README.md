@@ -32,7 +32,7 @@ I'm a **Senior Software Developer** with 5+ years of experience specializing in 
 
 ### 📬 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/franklin-s-04994114a/)  
-- [Portfolio](https://frankdev96.github.io/portfolio)
+- [Portfolio](https://frankdev96.github.io/franklin_porfolio/)
 
 ---
 
