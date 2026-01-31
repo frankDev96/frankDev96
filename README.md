@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 👋 Hi there, I'm Franklin Samuvel
 
-# check my porfolio here - [Portfolio](https://frankdev96.github.io/portfolio)
+# check my porfolio here - [Portfolio](https://frankdev96.github.io/franklin_porfolio/)
 
-I'm a **Senior Software Developer** with 5+ years of experience specializing in **React Native**, building scalable, cross-platform mobile apps. Currently working at **Infosys** as an Associate Consultant.
+I'm a **Senior Software Developer** with 6+ years of experience specializing in **React Native**, building scalable, cross-platform mobile apps. Currently working at **Infosys** as an Associate Consultant.
 
 ### 🚀 What I Do
 - Craft high-performance mobile apps using **React Native**, **JavaScript**, and **TypeScript**
