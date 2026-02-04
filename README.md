@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 I'm a **Senior Software Developer** with 6+ years of experience specializing in **React Native**, building scalable, cross-platform mobile apps. Currently working at **Infosys** as an Associate Consultant.
 
 ### 🚀 What I Do
-- Craft high-performance mobile apps using **React Native**, **JavaScript**, and **TypeScript**
+- Craft high-performance mobile apps using **React JS**,**React Native**, **JavaScript**, and **TypeScript**
 - Work on real-time features like **chat**, **media playback**, **file browsing**, and **sensor integration**
 - Build secure solutions with **Face ID**, **biometrics**, and **device-level protections**
 - Architect scalable solutions with **Redux**, **MMKV**, **FastAPI**, and **Node.js**
