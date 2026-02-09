@@ -75,6 +75,10 @@ I’ve worked across **fintech, logistics, hyperlocal commerce, and enterprise p
 
 ---
 
+![Franklin's GitHub Streak](https://streak-stats.demolab.com?user=frankDev96&theme=tokyonight)
+![Franklin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=frankDev96&theme=tokyo-night)
+
+
 ## 🔥 GitHub Streak
 
 <p align="center">
