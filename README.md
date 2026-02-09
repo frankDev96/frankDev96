@@ -60,25 +60,6 @@ I’ve worked across **fintech, logistics, hyperlocal commerce, and enterprise p
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=frankDev96&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankDev96&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-</p>
-
----
-
-![Franklin's GitHub Streak](https://streak-stats.demolab.com?user=frankDev96&theme=tokyonight)
-![Franklin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=frankDev96&theme=tokyo-night)
-
-
 ## 🔥 GitHub Streak
 
 <p align="center">
