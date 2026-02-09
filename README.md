@@ -10,6 +10,34 @@
 
 ---
 
+## 🧩 Skills & Tools
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+### Mobile & State
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![MMKV](https://img.shields.io/badge/MMKV-000000?style=for-the-badge)
+
+### Analytics & Security
+![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics-FF0000?style=for-the-badge&logo=adobe)
+![OAuth](https://img.shields.io/badge/OAuth-3C873A?style=for-the-badge)
+
+
+---
+
 ## 🚀 About Me
 
 I’m a **React Native & Frontend-heavy Full Stack Developer** focused on building **production-grade applications** with a strong emphasis on:
