@@ -9,6 +9,7 @@
 [📧 Email](mailto:franklinsamuvel955@gmail.com)
 
 ---
+https://img.shields.io/badge/TEXT-COLOR?style=for-the-badge&logo=LOGONAME
 
 ## 🧩 Skills & Tools
 
