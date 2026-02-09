@@ -1,39 +1,139 @@
+# 👋 Hi, I'm Franklin Samuvel
 
-<!---
-frankDev96/frankDev96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## 👋 Hi there, I'm Franklin Samuvel
+**Associate Consultant @ Infosys**  
+🚀 6+ years building scalable **mobile & web applications**  
+📊 Currently working on **enterprise analytics implementation** for a major US Telecom client
 
-# check my porfolio here - [Portfolio](https://frankdev96.github.io/franklin_porfolio/)
-
-I'm a **Senior Software Developer** with 6+ years of experience specializing in **React Native**, building scalable, cross-platform mobile apps. Currently working at **Infosys** as an Associate Consultant.
-
-### 🚀 What I Do
-- Craft high-performance mobile apps using **React JS**,**React Native**, **JavaScript**, and **TypeScript**
-- Work on real-time features like **chat**, **media playback**, **file browsing**, and **sensor integration**
-- Build secure solutions with **Face ID**, **biometrics**, and **device-level protections**
-- Architect scalable solutions with **Redux**, **MMKV**, **FastAPI**, and **Node.js**
-
-### 🛠 Tech Stack
-- **Frontend**: React Native, React.js, Redux, Tailwind, AngularJS
-- **Backend**: Node.js, FastAPI, Firebase, Supabase
-- **Tools**: Git, GitHub Actions, VSCode, Figma
-- **Other**: SEO optimization, DevOps basics
-
-### 🌱 Currently Learning
-- **AI Infrastructure**, **System Design**, and **Applied AI**
-- Preparing for roles like **Principal Engineer / Director (AI Platforms)**
-
-### 📈 Goals
-- Build impactful open-source tools
-- Reach $1M+ total compensation in 10 years 🚀
-- Contribute to the future of intelligent infrastructure systems
-
-### 📬 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/franklin-dev/)  
-- [Portfolio](https://frankdev96.github.io/franklin_porfolio/)
+[🌐 Portfolio](https://frankdev96.github.io/franklin_porfolio/) · 
+[💼 LinkedIn](https://www.linkedin.com/in/franklin-dev/) · 
+[📧 Email](mailto:franklinsamuvel955@gmail.com)
 
 ---
 
-> “Code > Debug > Cry > Fix > Coffee > Repeat ☕”
+## 🚀 About Me
+
+I’m a **React Native & Frontend-heavy Full Stack Developer** focused on building **production-grade apps** with strong emphasis on:
+
+- Performance & scalability  
+- Analytics-driven development  
+- Secure integrations (FinTech & Enterprise)  
+- Clean architecture & maintainable code  
+
+I’ve worked across **fintech, logistics, hyperlocal commerce, and enterprise platforms**, impacting **millions of users**.
+
+---
+
+## 💼 Current Role — Infosys (May 2025 – Present)
+
+- Implementing **Omni Data Layer (ODL)** tagging using **Adobe Web SDK**
+- Building analytics-driven features in **React.js Micro-Frontend (MFE)** architecture
+- Ensuring **100% accurate event tracking** across high-traffic user journeys
+- Collaborating closely with **Analytics, QA, Product & Business teams**
+- Contributing to enterprise-scale solutions for US telecom platforms
+
+---
+
+## 🧠 Tech Stack
+
+### Frontend
+`React Native` · `React.js` · `Angular` · `Vue.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
+
+### Backend & Data
+`Node.js` · `Express` · `Firebase` · `PostgreSQL` · `MongoDB` · `GraphQL` · `REST APIs`
+
+### State & Storage
+`Redux` · `Context API` · `MMKV`
+
+### Analytics
+`Adobe Web SDK` · `Omni Data Layer (ODL)` · `Analytics Tagging`
+
+### Security & Integrations
+`Face Liveness SDK` · `BlinkID (KYC)` · `Biometric Auth` · `OAuth`
+
+### Tools
+`Git` · `VS Code` · `Android Studio` · `Xcode` · `Postman` · `Agile / Scrum`
+
+---
+
+## 🧩 Featured Projects
+
+### 🏦 X-Bank – Mobile Banking (FirstRand Bank)
+Secure banking app with advanced KYC & biometric verification  
+**Tech:** React Native · Face Liveness · BlinkID · Secure Storage
+
+### 🚚 KIRKOS – Logistics Management
+Offline-first vehicle inspection app for delivery agents  
+**Tech:** React Native · MMKV · Camera API · Redux · Geolocation
+
+### 🛒 LILO – Hyperlocal Delivery Platform
+Multi-category delivery platform (food, grocery, essentials)  
+**Tech:** React Native · React.js · Firebase · Dynamic Business Zones
+
+### 🐐 Al Raie Trading
+Classified marketplace for animals, land supplies & services  
+**Tech:** React Native · Firebase · Redux · REST APIs
+
+### 🎉 Join – Event Discovery Platform
+Social platform for events with calendar integration  
+**Tech:** React Native · Firebase · Calendar API · Redux
+
+### 🎵 React Native Music Player
+Local file-based music player with full playback controls  
+**Tech:** React Native · react-native-track-player · File System API
+
+### 📍 Address Manager (Full Stack)
+Admin-driven address approval system (Web + Mobile)  
+**Tech:** React Native · React.js · Node.js · Express · PostgreSQL
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frankDev96&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankDev96&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- System Design & Enterprise Architecture
+- AI/ML integration in mobile & web apps
+- Advanced analytics & data-driven product development
+- DevOps, CI/CD & automation pipelines
+
+---
+
+## 🎯 Career Goals
+
+- Grow into **Principal Engineer / Engineering Manager** roles
+- Contribute to **high-impact open-source projects**
+- Build **AI-powered & intelligent platforms**
+- Lead technical direction in product-driven companies
+
+---
+
+## 🏆 Certifications
+
+- **MERN Stack** – Udemy  
+  `UC-22537342-a26c4609-b1db-62319d287d7b`
+- **JavaScript** – Uplatz Training
+
+---
+
+## 🤝 Let’s Connect
+
+I’m happy to chat about:
+- React Native architecture & performance
+- Analytics implementation (Adobe, ODL)
+- Full-stack system design
+- Career growth in product & enterprise tech
+
+📧 Email: **franklinsamuvel955@gmail.com**  
+💼 LinkedIn: **linkedin.com/in/franklin-dev**  
+🌐 Portfolio: **frankdev96.github.io/franklin_porfolio**
+
+---
+
+> *“Building scalable solutions, one commit at a time ☕”*
