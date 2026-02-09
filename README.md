@@ -9,7 +9,6 @@
 [📧 Email](mailto:franklinsamuvel955@gmail.com)
 
 ---
-https://img.shields.io/badge/TEXT-COLOR?style=for-the-badge&logo=LOGONAME
 
 ## 🧩 Skills & Tools
 
@@ -36,7 +35,6 @@ https://img.shields.io/badge/TEXT-COLOR?style=for-the-badge&logo=LOGONAME
 ![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics-FF0000?style=for-the-badge&logo=adobe)
 ![OAuth](https://img.shields.io/badge/OAuth-3C873A?style=for-the-badge)
 
-
 ---
 
 ## 🚀 About Me
@@ -62,25 +60,39 @@ I’ve worked across **fintech, logistics, hyperlocal commerce, and enterprise p
 
 ---
 
-## 🧠 Tech Stack
+## 📈 GitHub Stats
 
-### Frontend
-`React Native` · `React.js` · `Angular` · `Vue.js` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=frankDev96&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankDev96&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    height="160"
+  />
+</p>
 
-### Backend & Data
-`Node.js` · `Express` · `Firebase` · `PostgreSQL` · `MongoDB` · `GraphQL` · `REST APIs`
+---
 
-### State & Storage
-`Redux` · `Context API` · `MMKV`
+## 🔥 GitHub Streak
 
-### Analytics
-`Adobe Web SDK` · `Omni Data Layer (ODL)` · `Analytics Tagging`
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=frankDev96&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
 
-### Security & Integrations
-`Biometric Authentication` · `OAuth`
+---
 
-### Tools
-`Git` · `VS Code` · `Android Studio` · `Xcode` · `Postman` · `Agile / Scrum`
+## 📊 Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=frankDev96&theme=tokyo-night&hide_border=true"
+  />
+</p>
 
 ---
 
@@ -112,21 +124,6 @@ Admin-driven address approval workflow (Web + Mobile)
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=frankDev96&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-    height="160"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankDev96&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-    height="160"
-  />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - System Design & Enterprise Architecture
@@ -154,12 +151,6 @@ Admin-driven address approval workflow (Web + Mobile)
 ---
 
 ## 🤝 Let’s Connect
-
-I’m always happy to discuss:
-- React Native architecture & performance optimization
-- Analytics implementation (Adobe, ODL)
-- Full-stack development & system design
-- Career growth in product & enterprise tech
 
 📧 **Email:** franklinsamuvel955@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/franklin-dev  
