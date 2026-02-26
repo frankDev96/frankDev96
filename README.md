@@ -80,76 +80,46 @@ I've worked across **fintech, logistics, hyperlocal commerce, and enterprise pla
 
 ## 📅 Contribution Calendar
 
-<!-- lowlighter/metrics — classic template with isocalendar plugin -->
-<!-- 
-  ⚙️ SETUP INSTRUCTIONS:
-  1. Go to your repo → Settings → Actions → New workflow
-  2. Create `.github/workflows/metrics.yml` with the config below
-  3. Add a GitHub Personal Access Token as secret: PAT_TOKEN
-  4. Push — metrics.svg will auto-generate every day at midnight
--->
-
 <div align="center">
 
-![Metrics](./github-metrics.svg)
+[![GitHub Contribution Calendar](https://ghchart.rshah.org/00b4d8/franklin-samuvel)](https://github.com/franklin-samuvel)
 
 </div>
 
-<!-- 
-===== .github/workflows/metrics.yml =====
+<!-- ──────────────────────────────────────────────────────────────────────────
+  OPTIONAL UPGRADE → lowlighter/metrics (full isocalendar heatmap)
+  Works after running the GitHub Action once to generate github-metrics.svg
+  
+  Step 1 — Create .github/workflows/metrics.yml in your profile repo:
+  ────────────────────────────────────────────────────────────────────────────
 
-name: GitHub Metrics
+  name: GitHub Metrics
+  on:
+    schedule: [cron: "0 0 * * *"]
+    workflow_dispatch:
+    push: { branches: [main] }
+  jobs:
+    metrics:
+      runs-on: ubuntu-latest
+      permissions: { contents: write }
+      steps:
+        - uses: lowlighter/metrics@latest
+          with:
+            token: ${{ secrets.PAT_TOKEN }}
+            user: franklin-samuvel
+            template: classic
+            base: header, activity, community, repositories, metadata
+            plugin_isocalendar: yes
+            plugin_isocalendar_duration: full-year
+            plugin_languages: yes
+            plugin_languages_limit: 8
+            plugin_habits: yes
+            plugin_habits_charts: yes
+            filename: github-metrics.svg
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight UTC
-  workflow_dispatch:       # Manual trigger from Actions tab
-  push:
-    branches: [main]
-
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.PAT_TOKEN }}
-          user: franklin-dev          # ← your GitHub username
-          template: classic           # classic template (lowlighter default)
-          base: header, activity, community, repositories, metadata
-          filename: github-metrics.svg
-
-          # 📅 Isocalendar — full year contribution calendar (heatmap)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year   # or: half-year
-
-          # 📊 Languages breakdown
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_details: percentage, bytes-size
-          plugin_languages_threshold: 2%
-
-          # 🏆 Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-
-          # 🔥 GitHub Habits / Activity
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-          # ⭐ Topics
-          plugin_topics: yes
-          plugin_topics_mode: starred
-          plugin_topics_limit: 15
-
-=========================================
--->
+  Step 2 — Add PAT_TOKEN secret (Settings → Secrets → Actions)
+  Step 3 — Replace the ghchart img below with: ![Metrics](./github-metrics.svg)
+  ────────────────────────────────────────────────────────────────────────── -->
 
 ---
 
