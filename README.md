@@ -17,7 +17,6 @@
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
 
 ### Backend & Databases
