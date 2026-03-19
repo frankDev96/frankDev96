@@ -7,7 +7,7 @@
 [🌐 Portfolio](https://franklinsamuvel.com/) · 
 [💼 LinkedIn](https://www.linkedin.com/in/franklin-dev/) · 
 [📧 Email](mailto:franklinsamuvel955@gmail.com)
-[Resume](https://drive.google.com/file/d/1uK2fuIn5rn6pEphenaV-R0krU3v32Wbb/view?usp=sharing)
+[🌐 Resume](https://drive.google.com/file/d/1uK2fuIn5rn6pEphenaV-R0krU3v32Wbb/view?usp=sharing)
 ---
 
 ## 🧩 Skills & Tools
